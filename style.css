@@ -1,0 +1,56 @@
+#show_sketch
+{
+    float: right;
+    margin-right: 10px;
+    margin-top: 3px;
+}
+
+h1
+{
+    background-color: red;
+    color: black;
+    width: max;
+}
+
+body
+{
+    background-position: center;
+    background-size: cover;
+}
+
+#sketch_p
+{
+    color: white;
+}
+
+#confidence_p
+{
+    color: white;
+}
+
+#sketchtodraw_p
+{
+    color: white;
+}
+
+#score_span
+{
+    color: white;
+    float: left;
+    margin-left: 50px;
+    font-size: 20px;
+    font-weight: bold;
+    background: black;
+    width: 150px;
+}
+
+#timer_span
+{
+    color: white;
+    float: right;
+    margin-right:120px;
+    font-size: 20px;
+    font-weight: bold;
+    background: black;
+    width: 150px;
+}
